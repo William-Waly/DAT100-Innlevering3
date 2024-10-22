@@ -5,7 +5,7 @@ import no.hvl.dat100.oppgave1.*;
 
 public class Blogg {
 
-	// TODO: objektvariable 
+	// TODO: objektvariable
 
 	public Blogg() {
 		throw new UnsupportedOperationException(TODO.constructor("Blogg"));
@@ -47,7 +47,7 @@ public class Blogg {
 		throw new UnsupportedOperationException(TODO.method());
 	}
 
-	// valgfrie oppgaver nedenfor
+	/* valgfrie oppgaver nedenfor
 	
 	public void utvid() {
 		throw new UnsupportedOperationException(TODO.method());
@@ -68,5 +68,5 @@ public class Blogg {
 		
 		throw new UnsupportedOperationException(TODO.method());
 
-	}
+	}*/
 }
