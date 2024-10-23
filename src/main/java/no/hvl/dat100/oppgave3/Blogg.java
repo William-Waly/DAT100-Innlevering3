@@ -64,14 +64,8 @@ public class Blogg {
 	}
 	
 	public String toString() {
-	
-		String a = nesteledig + "\n";
 		
-		for(int i = 0; i < nesteledig; i++) {
-			a += innleggtabell[i].toString() + "\n";
-		}
-		
-		return a;
+		return "TEKST\n" + getAntall() + "\n" + getSamling() + "\n";
 	}
 
 	/* valgfrie oppgaver nedenfor
